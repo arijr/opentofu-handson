@@ -1,0 +1,13 @@
+project_prefix = "tofu-workshop"
+environment    = "dev"
+aws_region     = "us-east-1"
+aws_endpoint   = "http://localhost:4566"
+
+buckets = {
+  artifacts = {
+    purpose = "artefatos de laboratorio"
+  }
+  logs = {
+    purpose = "logs simulados do laboratorio"
+  }
+}

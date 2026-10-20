@@ -1,0 +1,23 @@
+# OpenTofu generated files
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+*.tfplan
+*.plan
+*.tfvars
+!*.tfvars.example
+**/backend.hcl
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Local emulator or editor data
+.floci-data/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
