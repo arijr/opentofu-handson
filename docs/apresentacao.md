@@ -3,10 +3,16 @@
 ## Slides
 
 O deck PowerPoint projetável está em
-[apresentacao.pptx](apresentacao.pptx), com notas do apresentador em cada slide.
-Para regenerá-lo após editar o conteúdo, instale `docs/requirements-slides.txt`
-e execute `python3 docs/build_slides.py` na raiz do workshop. Este roteiro
-continua como fonte detalhada das notas, perguntas e referências.
+[apresentacao.pptx](apresentacao.pptx), com notas do apresentador em cada slide;
+a versão PDF para projeção e compartilhamento está em
+[apresentacao.pdf](apresentacao.pdf). Os exercícios têm um deck próprio em
+[laboratorios.pptx](laboratorios.pptx) e [laboratorios.pdf](laboratorios.pdf).
+Para regenerar os decks de laboratório após editar o conteúdo, instale
+`docs/requirements-slides.txt` e execute `python3 docs/build_lab_slides.py` e
+`python3 docs/build_lab_pdf.py` na raiz do workshop. Para regenerar a
+apresentação introdutória, execute `python3 docs/build_slides.py` e
+`python3 docs/build_pdf.py`. Este roteiro continua como fonte detalhada das
+notas, perguntas e referências.
 
 ## Roteiro de slides
 

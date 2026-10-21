@@ -11,13 +11,15 @@ executado exclusivamente contra o emulador local Floci. Nenhum recurso AWS real
 - **Dia 2 (2h30):** 25 min de módulos; 30 min de expressões; 30 min de recursos e
   data sources; 25 min de qualidade e segurança; 40 min de desafio.
 
-Comece pelo deck [docs/apresentacao.pptx](docs/apresentacao.pptx); as notas,
-referências e o roteiro detalhado ficam em
+Comece pelo deck [docs/apresentacao.pptx](docs/apresentacao.pptx) ou pela versão
+[PDF](docs/apresentacao.pdf); as notas, referências e o roteiro detalhado ficam em
 [docs/apresentacao.md](docs/apresentacao.md). Os passos, objetivos e critérios
 de cada atividade estão em [labs/](labs/).
 
 Para conduzir as sessões de laboratório em ordem e dentro do tempo, consulte o
 [roteiro do apresentador](docs/roteiro-apresentador-labs.md).
+Os passos de cada exercício também estão disponíveis para projeção em
+[slides PowerPoint](docs/laboratorios.pptx) e [PDF](docs/laboratorios.pdf).
 
 ## Início rápido
 

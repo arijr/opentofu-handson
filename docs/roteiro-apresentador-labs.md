@@ -4,6 +4,11 @@ Guia operacional para conduzir os laboratórios depois da apresentação inicial
 Ele complementa os READMEs individuais dos labs com ordem de execução, falas,
 comandos, verificações e pontos de decisão para o instrutor.
 
+Para projetar o passo a passo para a turma, use também o deck
+[laboratorios.pptx](laboratorios.pptx) ou sua versão
+[PDF](laboratorios.pdf). Os slides mostram objetivos, comandos e resultados
+esperados; este roteiro mantém os tempos detalhados e as notas de condução.
+
 ## Agenda dos encontros
 
 ### Hoje — 2h30 no total
